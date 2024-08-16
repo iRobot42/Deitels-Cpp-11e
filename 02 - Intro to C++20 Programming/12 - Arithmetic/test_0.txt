@@ -1,0 +1,5 @@
+Enter two integer numbers: 42 0
+
+The sum is 42
+The product is 0
+The difference is 42

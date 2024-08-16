@@ -1,0 +1,6 @@
+Enter two integer numbers: 42 -3
+
+The sum is 39
+The product is -126
+The difference is 45
+The quotient is -14
