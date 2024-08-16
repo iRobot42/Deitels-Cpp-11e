@@ -1,0 +1,2 @@
+Two integer numbers: 21 42
+21 is not a multiple of 42

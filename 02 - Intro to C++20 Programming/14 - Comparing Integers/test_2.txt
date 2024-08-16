@@ -1,0 +1,2 @@
+Enter two integer numbers: -1 42
+42 is larger.

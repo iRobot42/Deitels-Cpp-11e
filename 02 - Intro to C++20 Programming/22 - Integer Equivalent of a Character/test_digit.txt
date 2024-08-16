@@ -1,0 +1,2 @@
+Character: 1
+Integer equivalent is 49

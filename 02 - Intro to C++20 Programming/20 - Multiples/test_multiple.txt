@@ -1,0 +1,2 @@
+Two integer numbers: 42 7
+42 is a multiple of 7

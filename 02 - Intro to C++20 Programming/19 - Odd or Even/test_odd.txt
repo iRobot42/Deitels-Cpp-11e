@@ -1,0 +1,2 @@
+Integer number: 1
+It's odd

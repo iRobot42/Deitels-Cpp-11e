@@ -1,0 +1,16 @@
+Enter miles driven (-1 to quit): 287
+Enter gallons used: 13
+MPG this trip: 22.076923
+Total MPG: 22.076923
+
+Enter miles driven (-1 to quit): 200
+Enter gallons used: 10
+MPG this trip: 20.000000
+Total MPG: 21.173913
+
+Enter miles driven (-1 to quit): 120
+Enter gallons used: 5
+MPG this trip: 24.000000
+Total MPG: 21.678571
+
+Enter miles driven (-1 to quit): -1

@@ -1,0 +1,6 @@
+Input three different integers: 42 -1 1024
+Sum is 1065
+Average is 355
+Product is -43008
+Smallest is -1
+Largest is 1024

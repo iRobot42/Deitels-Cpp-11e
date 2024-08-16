@@ -1,0 +1,2 @@
+Five-digit integer: 42339
+4   2   3   3   9
