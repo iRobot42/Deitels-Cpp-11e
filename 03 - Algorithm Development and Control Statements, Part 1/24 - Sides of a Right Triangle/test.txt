@@ -1,0 +1,2 @@
+Three nonzero ingegers: 3 5 4
+Right triangle!

@@ -1,0 +1,17 @@
+Enter hours worked (-1 to end): 39
+Enter hourly rate of the employee: 10.00
+Salary is $390.00
+
+Enter hours worked (-1 to end): 40
+Enter hourly rate of the employee: 10.00
+Salary is $400.00
+
+Enter hours worked (-1 to end): 41
+Enter hourly rate of the employee: 10.00
+Salary is $415.00
+
+Enter hours worked (-1 to end): 0
+Enter hourly rate of the employee: 10.00
+Salary is $0.00
+
+Enter hours worked (-1 to end): -1

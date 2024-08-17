@@ -1,0 +1,4 @@
+Four-digit integer: 7533
+
+Encrypted: 42
+Decrypted: 7533

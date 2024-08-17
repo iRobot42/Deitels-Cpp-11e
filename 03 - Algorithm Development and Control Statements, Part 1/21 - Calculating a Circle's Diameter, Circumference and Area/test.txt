@@ -1,0 +1,5 @@
+Radius of a circle: 4.2
+
+Diameter is 8.4
+Circumference is 26.3894
+Area is 55.4176
