@@ -1,0 +1,6 @@
+Five numbers between 1 and 30: 0 31 1 30 15
+Number 0 is out of range!
+Number 31 is out of range!
+*
+******************************
+***************

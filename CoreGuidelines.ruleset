@@ -132,7 +132,7 @@
     <Rule Id="C26815" Action="Warning" />
     <Rule Id="C26816" Action="Warning" />
     <Rule Id="C26817" Action="Warning" />
-    <Rule Id="C26818" Action="Warning" />
+    <Rule Id="C26818" Action="None" />
     <Rule Id="C26819" Action="Warning" />
     <Rule Id="C26820" Action="Warning" />
     <Rule Id="C26821" Action="Warning" />
