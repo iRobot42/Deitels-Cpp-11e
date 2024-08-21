@@ -2,7 +2,7 @@
 
 - [x] Intro to C++20 Programming
 - [x] Algorithm Development and Control Statements, Part 1
-> - [ ] Control Statements, Part 2
+- [x] Control Statements, Part 2
 > - [ ] Functions and an Intro to Function Templates
 > - [ ] Arrays, Vectors, Ranges and Functional-Style Programming
 > - [ ] Pointers in Modern C++
