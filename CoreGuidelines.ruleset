@@ -450,7 +450,6 @@
     <Rule Id="C6333" Action="Warning" />
     <Rule Id="C6334" Action="Warning" />
     <Rule Id="C6335" Action="Warning" />
-    <Rule Id="C6336" Action="Warning" />
     <Rule Id="C6340" Action="Warning" />
     <Rule Id="C6381" Action="Warning" />
     <Rule Id="C6383" Action="Warning" />
