@@ -1,0 +1,24 @@
+Number: 3.14159
+
+Original value:     3.14159
+Nearest integer:    3
+Nearest tenth:      3.1
+Nearest hundredth:  3.14
+Nearest thousandth: 3.142
+
+Number: 2.71828
+
+Original value:     2.71828
+Nearest integer:    3
+Nearest tenth:      2.7
+Nearest hundredth:  2.72
+Nearest thousandth: 2.718
+
+Number: 1.618
+
+Original value:     1.618
+Nearest integer:    2
+Nearest tenth:      1.6
+Nearest hundredth:  1.62
+Nearest thousandth: 1.618
+

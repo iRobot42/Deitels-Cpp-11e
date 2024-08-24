@@ -1,0 +1,7 @@
+Five numbers: 0.4 0.5 1.1 1.9 42
+
+Nearest integer for 0.4 is 0
+Nearest integer for 0.5 is 1
+Nearest integer for 1.1 is 1
+Nearest integer for 1.9 is 2
+Nearest integer for 42 is 42
