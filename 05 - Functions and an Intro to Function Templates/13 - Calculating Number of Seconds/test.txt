@@ -1,0 +1,4 @@
+Time (hh mm ss): 10 00 42
+The number of seconds since 12h: 36042
+Time (hh mm ss): 10 01 00
+The difference is 18 second(s)
