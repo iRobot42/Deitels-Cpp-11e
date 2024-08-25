@@ -1,0 +1,25 @@
+Number (-1 to end): 42
+Even
+
+Number (-1 to end): 43
+Odd
+
+Number (-1 to end): 1
+Odd
+
+Number (-1 to end): 2
+Even
+
+Number (-1 to end): 3
+Odd
+
+Number (-1 to end): -3
+Odd
+
+Number (-1 to end): -2
+Even
+
+Number (-1 to end): 0
+Even
+
+Number (-1 to end): -1

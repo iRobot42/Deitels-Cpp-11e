@@ -1,0 +1,40 @@
+Two integer numbers (-1 to end): 2 1
+1 is not a multiple of 2
+
+Two integer numbers (-1 to end): 1 2
+2 is a multiple of 1
+
+Two integer numbers (-1 to end): 1 42
+42 is a multiple of 1
+
+Two integer numbers (-1 to end): 42 1
+1 is not a multiple of 42
+
+Two integer numbers (-1 to end): 42 0
+0 is a multiple of 42
+
+Two integer numbers (-1 to end): 0 42
+42 is not a multiple of 0
+
+Two integer numbers (-1 to end): 7 42
+42 is a multiple of 7
+
+Two integer numbers (-1 to end): -7 42
+42 is a multiple of -7
+
+Two integer numbers (-1 to end): 7 -42
+-42 is a multiple of 7
+
+Two integer numbers (-1 to end): -7 -42
+-42 is a multiple of -7
+
+Two integer numbers (-1 to end): 42 42
+42 is a multiple of 42
+
+Two integer numbers (-1 to end): 0 0
+0 is not a multiple of 0
+
+Two integer numbers (-1 to end): 8 1024
+1024 is a multiple of 8
+
+Two integer numbers (-1 to end): -1

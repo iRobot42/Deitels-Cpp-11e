@@ -1,0 +1,1 @@
+integerPower( 3, 4 ) returns 81

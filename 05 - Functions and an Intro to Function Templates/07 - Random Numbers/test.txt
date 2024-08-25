@@ -1,0 +1,4 @@
+A random number from the set:
+a) 10
+b) 3
+c) 18
