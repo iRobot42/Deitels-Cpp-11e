@@ -1,0 +1,4 @@
+Two nonzero integer numbers: 0 1
+Two nonzero integer numbers: 1 0
+Two nonzero integer numbers: 42 -35
+GCD is 7
