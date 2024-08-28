@@ -1,8 +1,9 @@
 ﻿**/.vs/
-**/x64/
+**/.vscode/
 **/examples/
+**/x64/
 
-*.vcxproj
 *.filters
-*.user
 *.sln
+*.user
+*.vcxproj

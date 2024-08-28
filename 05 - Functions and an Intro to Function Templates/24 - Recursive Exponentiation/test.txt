@@ -1,0 +1,4 @@
+Base and exponent: 42 0
+Base and exponent: 2 -5
+Base and exponent: -2 5
+Function power returns -32

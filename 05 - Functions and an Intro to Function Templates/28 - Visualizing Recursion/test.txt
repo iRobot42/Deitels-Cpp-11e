@@ -1,0 +1,173 @@
+  0: base case!
+  0! = 1
+
+  1: base case!
+  1! = 1
+
+  2: recursive call (1)
+  1: base case!
+  2! = 2
+
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  3! = 6
+
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  4! = 24
+
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  5! = 120
+
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  6! = 720
+
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  7! = 5040
+
+  8: recursive call (7)
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  8! = 40320
+
+  9: recursive call (8)
+  8: recursive call (7)
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+  9! = 362880
+
+ 10: recursive call (9)
+  9: recursive call (8)
+  8: recursive call (7)
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+ 10! = 3628800
+
+ 20: recursive call (19)
+ 19: recursive call (18)
+ 18: recursive call (17)
+ 17: recursive call (16)
+ 16: recursive call (15)
+ 15: recursive call (14)
+ 14: recursive call (13)
+ 13: recursive call (12)
+ 12: recursive call (11)
+ 11: recursive call (10)
+ 10: recursive call (9)
+  9: recursive call (8)
+  8: recursive call (7)
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+ 20! = 2432902008176640000
+
+ 30: recursive call (29)
+ 29: recursive call (28)
+ 28: recursive call (27)
+ 27: recursive call (26)
+ 26: recursive call (25)
+ 25: recursive call (24)
+ 24: recursive call (23)
+ 23: recursive call (22)
+ 22: recursive call (21)
+ 21: recursive call (20)
+ 20: recursive call (19)
+ 19: recursive call (18)
+ 18: recursive call (17)
+ 17: recursive call (16)
+ 16: recursive call (15)
+ 15: recursive call (14)
+ 14: recursive call (13)
+ 13: recursive call (12)
+ 12: recursive call (11)
+ 11: recursive call (10)
+ 10: recursive call (9)
+  9: recursive call (8)
+  8: recursive call (7)
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+ 30! = 265252859812191058636308480000000
+
+ 40: recursive call (39)
+ 39: recursive call (38)
+ 38: recursive call (37)
+ 37: recursive call (36)
+ 36: recursive call (35)
+ 35: recursive call (34)
+ 34: recursive call (33)
+ 33: recursive call (32)
+ 32: recursive call (31)
+ 31: recursive call (30)
+ 30: recursive call (29)
+ 29: recursive call (28)
+ 28: recursive call (27)
+ 27: recursive call (26)
+ 26: recursive call (25)
+ 25: recursive call (24)
+ 24: recursive call (23)
+ 23: recursive call (22)
+ 22: recursive call (21)
+ 21: recursive call (20)
+ 20: recursive call (19)
+ 19: recursive call (18)
+ 18: recursive call (17)
+ 17: recursive call (16)
+ 16: recursive call (15)
+ 15: recursive call (14)
+ 14: recursive call (13)
+ 13: recursive call (12)
+ 12: recursive call (11)
+ 11: recursive call (10)
+ 10: recursive call (9)
+  9: recursive call (8)
+  8: recursive call (7)
+  7: recursive call (6)
+  6: recursive call (5)
+  5: recursive call (4)
+  4: recursive call (3)
+  3: recursive call (2)
+  2: recursive call (1)
+  1: base case!
+ 40! = 815915283247897734345611269596115894272000000000

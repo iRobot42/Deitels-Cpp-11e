@@ -24,4 +24,4 @@
 
 + **OS** - Microsoft Windows 10 Enterprise, x64
 + **IDE** - Visual Studio Community 2022
-+ **Compiler** - MSVC, version 1939+
++ **Compiler** - MSVC, version 19.39

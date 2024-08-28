@@ -1,0 +1,2 @@
+Two numbers: 84 -126
+GCD is 42
