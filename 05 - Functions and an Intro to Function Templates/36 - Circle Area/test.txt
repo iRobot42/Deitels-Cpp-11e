@@ -1,0 +1,4 @@
+Circle radius: -1
+Circle radius: 0
+Circle radius: 10.001
+Area is 314.222

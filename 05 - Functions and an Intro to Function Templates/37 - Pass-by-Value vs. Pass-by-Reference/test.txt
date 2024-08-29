@@ -1,0 +1,3 @@
+Number: 8
+Tripled by value: 24
+Tripled by reference: 24

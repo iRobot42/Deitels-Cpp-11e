@@ -1,0 +1,34 @@
+Function   Arguments   Result
+------------------------------
+ceil       9.2         10
+ceil       -9.8        -9
+ceil       .0001       1
+cos        0.0         1
+cos        3.14159     -1
+exp        1.0         2.71828
+exp        2.0         7.38906
+exp        0           1
+fabs       5.1         5.1
+fabs       0.0         0
+fabs       -8.76       8.76
+fabs       -42.01      42.01
+floor      9.2         9
+floor      -9.8        -10
+floor      0.5         0
+fmod       2.6, 1.2    0.2
+fmod       2, 5        2
+log        2.718282    1
+log        7.389056    2
+log        0           -inf
+log10      10.0        1
+log10      100.0       2
+log10      -1          -nan(ind)
+pow        2, 7        128
+pow        9, .5       3
+pow        -1, 3       -1
+sin        0.0         0
+sin        1           0.841471
+sqrt       9.0         3
+sqrt       42          6.48074
+tan        0.0         0
+tan        atan( 42 )  42
