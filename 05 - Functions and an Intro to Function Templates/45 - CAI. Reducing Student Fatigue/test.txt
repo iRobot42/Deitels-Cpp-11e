@@ -1,0 +1,27 @@
+Enter -1 to end.
+
+How much is 4 times 7? 28
+Excellent!
+
+How much is 1 times 9? 9
+Keep up the good work!
+
+How much is 7 times 6? 42
+Nice work!
+
+How much is 3 times 5? 15
+Keep up the good work!
+
+How much is 2 times 7? 0
+No. Please try again.
+
+How much is 2 times 7? 0
+Wrong. Try once more.
+
+How much is 2 times 7? 0
+Don't give up!
+
+How much is 2 times 7? 0
+No. Please try again.
+
+How much is 2 times 7? -1

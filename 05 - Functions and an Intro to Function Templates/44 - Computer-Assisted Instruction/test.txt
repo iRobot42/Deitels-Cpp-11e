@@ -1,0 +1,24 @@
+Enter -1 to end.
+
+How much is 6 times 4? 24
+Very good!
+
+How much is 8 times 4? 32
+Very good!
+
+How much is 3 times 7? 21
+Very good!
+
+How much is 6 times 5? 30
+Very good!
+
+How much is 6 times 0? 0
+Very good!
+
+How much is 8 times 1? 8
+Very good!
+
+How much is 8 times 9? 1
+No. Please try again.
+
+How much is 8 times 9? -1
