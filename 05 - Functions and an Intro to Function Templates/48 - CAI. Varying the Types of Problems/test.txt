@@ -1,0 +1,125 @@
+Difficulty (1-4), 0 to end: -1
+Difficulty (1-4), 0 to end: 5
+Difficulty (1-4), 0 to end: 1
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - integer division
+5 - random mixture
+Type: 0
+Type: 6
+Type: 4
+4 / 9 = 0
+Excellent!
+8 / 3 = 2
+Excellent!
+6 / 3 = 2
+Very good!
+8 / 7 = 1
+Very good!
+2 / 7 = 0
+Keep up the good work!
+7 / 6 = 1
+Excellent!
+1 / 2 = 0
+Keep up the good work!
+4 / 9 = 0
+Nice work!
+2 / 9 = 0
+Keep up the good work!
+9 / 1 = 9
+Very good!
+Congratulations, you are ready to go to the next level!
+
+Difficulty (1-4), 0 to end: 2
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - integer division
+5 - random mixture
+Type: 1
+29 + 34 = 63
+Keep up the good work!
+64 + 61 = 125
+Very good!
+99 + 77 = 1
+Don't give up!
+14 + 3 = 1
+No. Keep trying.
+50 + 48 = 1
+No. Keep trying.
+17 + 28 = 1
+No. Keep trying.
+27 + 96 = 1
+Wrong. Try once more.
+11 + 63 = 1
+Don't give up!
+38 + 89 = 1
+Don't give up!
+84 + 60 = 1
+No. Please try again.
+Please ask your teacher for extra help.
+
+Difficulty (1-4), 0 to end: 3
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - integer division
+5 - random mixture
+Type: 2
+268 - 250 = 18
+Keep up the good work!
+173 - 487 = -314
+Keep up the good work!
+147 - 736 = 1
+No. Please try again.
+505 - 464 = 1
+No. Keep trying.
+830 - 924 = 1
+Don't give up!
+586 - 310 = 1
+No. Please try again.
+388 - 860 = 1
+Don't give up!
+330 - 537 = 1
+No. Keep trying.
+697 - 319 = 1
+No. Keep trying.
+863 - 297 = 1
+No. Keep trying.
+Please ask your teacher for extra help.
+
+Difficulty (1-4), 0 to end: 4
+Types of arithmetic problem:
+1 - addition
+2 - subtraction
+3 - multiplication
+4 - integer division
+5 - random mixture
+Type: 5
+8556 + 4336 = 12892
+Very good!
+8844 * 6653 = 58839132
+Excellent!
+76 / 6584 = 0
+Excellent!
+9423 - 4331 = 5092
+Excellent!
+1919 * 9357 = 1
+No. Keep trying.
+1461 - 9310 = 1
+No. Please try again.
+8049 / 6961 = 1
+Excellent!
+3085 / 9213 = 1
+Wrong. Try once more.
+6162 + 2485 = 1
+No. Please try again.
+8722 + 4337 = 1
+Wrong. Try once more.
+Please ask your teacher for extra help.
+
+Difficulty (1-4), 0 to end: 0
