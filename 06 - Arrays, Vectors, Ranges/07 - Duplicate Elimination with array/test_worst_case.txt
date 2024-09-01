@@ -1,0 +1,25 @@
+Enter 20 numbers [10-100]...
+
+Number 1: 22
+Number 2: 22
+Number 3: 22
+Number 4: 22
+Number 5: 22
+Number 6: 22
+Number 7: 22
+Number 8: 22
+Number 9: 22
+Number 10: 22
+Number 11: 22
+Number 12: 22
+Number 13: 22
+Number 14: 22
+Number 15: 22
+Number 16: 22
+Number 17: 22
+Number 18: 22
+Number 19: 22
+Number 20: 22
+
+Unique values:
+22
