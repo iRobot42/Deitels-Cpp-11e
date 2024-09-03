@@ -1,0 +1,16 @@
+
+200 flips...
+Heads frequency: 102      51.00%
+Tails frequency: 98       49.00%
+
+20000 flips...
+Heads frequency: 9894     49.47%
+Tails frequency: 10106    50.53%
+
+200000 flips...
+Heads frequency: 99801    49.90%
+Tails frequency: 100199   50.10%
+
+20000000 flips...
+Heads frequency: 10000405 50.00%
+Tails frequency: 9999595  50.00%

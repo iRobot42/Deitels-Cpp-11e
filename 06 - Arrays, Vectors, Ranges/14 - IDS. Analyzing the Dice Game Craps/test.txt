@@ -1,0 +1,21 @@
+Playing 1000 games of Craps...
+
+Roll    Won     Lost
+---------------------
+1       220     117
+2       68      101
+3       52      86
+4       42      58
+5       30      33
+6       24      35
+7       18      21
+8       7       14
+9       9       14
+10      4       9
+11      3       7
+12      5       7
+
+Winning chances: 48.5%
+Game length mean: 3.4
+Game length median: 2
+Game length mode: 1
