@@ -1,0 +1,36 @@
+Enter slip's data (Person Product Value) [0 to end].
+> -1 1 1
+Incorrect salesperson number
+> 1 -1 1
+Incorrect product number
+> 1 1 -1
+Incorrect value
+> 5 1 1
+Incorrect salesperson number
+> 1 6 1
+Incorrect product number
+> 1 1 1
+> 1 2 11
+> 1 3 111
+> 1 5 15
+> 2 1 0
+> 2 4 1
+> 3 5 35
+> 3 3 333
+> 3 2 33
+> 3 1 3
+> 4 1 4
+> 4 2 44
+> 4 3 444
+> 4 5 45
+> 0
+
+Salesperson:    1       2       3       4       TOTAL
+-----------------------------------------------------
+Product 1       1       0       3       4       8
+Product 2       11      0       33      44      88
+Product 3       111     0       333     444     888
+Product 4       0       1       0       0       1
+Product 5       15      0       35      45      95
+-----------------------------------------------------
+TOTAL:          138     1       404     537     1080
