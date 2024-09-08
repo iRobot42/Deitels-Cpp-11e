@@ -1,0 +1,1 @@
+The total of the triples of the even numbers (2-10) is 90
