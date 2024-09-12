@@ -4,7 +4,7 @@
 - [x] Algorithm Development and Control Statements, Part 1
 - [x] Control Statements, Part 2
 - [x] Functions and an Intro to Function Templates
-> - [ ] Arrays, Vectors, Ranges and Functional-Style Programming
+- [x] Arrays, Vectors, Ranges and Functional-Style Programming
 > - [ ] Pointers in Modern C++
 > - [ ] Strings, String_views, Text Files, CSV Files and Regex
 > - [ ] Custom Classes
