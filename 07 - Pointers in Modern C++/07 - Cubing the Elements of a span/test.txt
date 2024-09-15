@@ -1,0 +1,11 @@
+Before cubing:
+values1: 1 2 3 4 5
+values2: 6 7 8 9 10
+values3: 11 12 13 14 15
+
+Cubing the elements...
+
+After cubing:
+values1: 1 8 27 64 125
+values2: 216 343 512 729 1000
+values3: 1331 1728 2197 2744 3375
