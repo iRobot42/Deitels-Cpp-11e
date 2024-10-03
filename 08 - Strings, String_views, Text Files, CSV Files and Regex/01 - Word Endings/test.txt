@@ -1,0 +1,16 @@
+Enter several words (EOF to end):
+Alexander
+robot
+ray
+Ay
+STAR
+far
+away
+mr.
+^Z
+
+Words ending in 'r' or 'ay':
+Alexander
+ray
+far
+away
