@@ -1,0 +1,4 @@
+Grades: 4 5 5 3 4 5
+Total: 26
+Count: 6
+Average: 4.33
