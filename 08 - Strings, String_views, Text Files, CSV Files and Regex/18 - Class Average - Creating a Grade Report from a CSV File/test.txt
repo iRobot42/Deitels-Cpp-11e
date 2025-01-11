@@ -1,0 +1,21 @@
+Student               Exam 1  Exam 2  Exam 3  Average
+-----------------------------------------------------
+Masters, Lisa             80      47      48    58.33
+Benbow, Nicholas          89      42      46    59.00
+Adams, Lewis              73      57      56    62.00
+Robertson, Daniel         79      93      74    82.00
+Rennold, Tod              55      62      66    61.00
+Beaumont, Octavia         45      51      90    62.00
+Dyson, Bill               61      91      92    81.33
+Wilkinson, Woody          69      60      50    59.67
+Linville, Emily           67      63      84    71.33
+Barren, Elijah            95      58      99    84.00
+North, Margo              64      65      49    59.33
+Milburn, Lane             81      75      77    77.67
+Hodson, Terrence          87      98      97    94.00
+Penny, Clarence           72      43      44    53.00
+Watt, Elodie              86      78      94    86.00
+Spooner, Abbi             53      71      54    59.33
+Horn, Orson               82      70      83    78.33
+-----------------------------------------------------
+Class average:         72.82   66.12   70.76
