@@ -1,0 +1,6 @@
+String: "He11o!
+My_name is: #R080T      ..."
+Digits: 5
+Non-digits: 24
+Whitespaces: 4
+Alphanumerics: 19
